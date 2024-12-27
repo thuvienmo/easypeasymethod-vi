@@ -1,5 +1,5 @@
-# easypeasymethod-vi
+# Thoát khỏi Porn
 
 Bản dịch cho sách [EasyPeasy](https://read.easypeasymethod.org/)
 
-Đang dịch....., bạn có thể bấm vào tệp .Rmd để đọc luôn.
+Bản dịch được dịch bằng AI và mình chỉ proofread thôi.
