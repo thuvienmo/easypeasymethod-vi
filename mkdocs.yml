@@ -1,0 +1,75 @@
+site_name: EasyPeasyMethod - Bản dịch Tiếng Việt
+site_description: Cách đơn giản như ăn bánh để thoát khỏi cơn nghiện nội dung khiêu dâm (porn)
+site_author: duykhanh471  
+repo_name: Chỉnh sửa bản dịch trên Github
+repo_url: https://github.com/duy103zxc/easypeasymethod-vi
+
+nav:
+  - 'Trang chủ dự án': 'index.md'
+  - 'Chương 1: Lời mở đầu': 'ch01.md'
+  - 'Chương 2: Phương pháp dễ dàng': 'ch02.md'
+  - 'Chương 3: Tại sao thật khó để dừng lại?': 'ch03.md'
+  - 'Chương 4: Tự nhiên/Tạo hóa (Nature)': 'ch04.md'
+  - 'Chương 5: Tẩy não': 'ch05.md'
+  - 'Chương 6: Các khía cạnh của sự tẩy não': 'ch06.md'
+  - 'Chương 7: Ta đang từ bỏ điều gì': 'ch07.md'
+  - 'Chương 8: Giữ lấy thời gian': 'ch08.md'
+  - 'Chương 9: Sức khỏe': 'ch09.md'
+  - 'Chương 10: Những lợi ích khi trở thành một con nghiện nội dung khiêu dâm': 'ch10.md'
+  - 'Chương 11: Sức mạnh ý chí': 'ch11.md'
+  - 'Chương 12: Cẩn trọng với việc "cắt giảm"': 'ch12.md'
+  - 'Chương 13: Chỉ là một cái liếc qua': 'ch13.md'
+  - 'Chương 14: Những người xem thông thường': 'ch14.md'
+  - 'Chương 15: Người nghiện sử dụng Youtube/Twitch/Instagram': 'ch15.md'
+  - 'Chương 16: Một thói quen xã hội?': 'ch16.md'
+  - 'Chương 17: Thời điểm': 'ch17.md'
+  - 'Chương 18: Tôi có đang bỏ lỡ cuộc vui?': 'ch18.md'
+  - 'Chương 19: Jekyll và Hyde': 'ch19.md'
+  - 'Chương 20: Tránh những khuyến khích lầm lạc': 'ch20.md'
+  - 'Chương 21: Cách dễ dàng để dừng lại': 'ch21.md'
+  - 'Chương 22: Giai đoạn thoát khỏi cạm bẫy': 'ch22.md'
+  - 'Chương 23: Chỉ một cái nhìn thoáng qua': 'ch23.md'
+  - 'Chương 24: Liệu nó có khó hơn với tôi?': 'ch24.md'
+  - 'Chương 25: Thay thế': 'ch25.md'
+  - 'Chương 26: Ta có nên tránh khỏi tình huống cám dỗ?': 'ch26.md'
+  - 'Chương 27: Khoảnh khắc hé mở': 'ch27.md'
+  - 'Chương 28: Lần truy cập cuối cùng': 'ch28.md'
+  - 'Chương 29: Nhận xét': 'ch29.md'
+  - 'Chương 30: Cứu giúp những người đang lầm đường lạc lối': 'ch30.md'
+  - 'Chương 31: Lời khuyên cho non-user': 'ch31.md'
+  - 'Chương 32: Những chỉ dẫn': 'ch32.md'
+  - 'Chương 33: BÂY GIỜ': 'ch33.md'
+  - 'Tài nguyên': 'resources.md'
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  name: material
+
+plugins:
+  - search
+  - open-in-new-tab
+
+extra:
+  generator: false
